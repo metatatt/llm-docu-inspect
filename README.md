@@ -1,13 +1,11 @@
-# LLM Agent for inspection workflow
+# LLM Agent: docs compliance
 
-## operator
-![image](https://github.com/metatatt/llm-inspection-flow/assets/100538673/92c578a0-03aa-4ef7-9432-fe228fa5d420)
-
-![image](https://github.com/metatatt/llm-inspection-flow/assets/100538673/34849bf9-2476-4a2e-af1f-27f68b1886dd)
-
-## supervisor (Agora remote)
-![image](https://github.com/metatatt/llm-inspection-flow/assets/100538673/f815b922-e288-45b0-9e0a-32bc4c1e3123)
+## OCR Recognition via Azure Vision AI 
+![scanner1](https://github.com/metatatt/llm-docu-inspect/assets/100538673/b6b1c82b-7465-4d45-b58d-0597405559a2)
 
 
-video 
-https://github.com/metatatt/llm-inspection-flow/assets/100538673/b29c029b-c9ab-4329-ae5b-1dbe614b4df7
+## LangChain retrieval local 
+![scanner2](https://github.com/metatatt/llm-docu-inspect/assets/100538673/00b488f3-4a84-4c8c-8d8b-89a1ffa70a37)
+
+## Overhead camera
+![overhead](https://github.com/metatatt/llm-docu-inspect/assets/100538673/75288b5b-4084-400c-bf17-5979bec87b6c)
